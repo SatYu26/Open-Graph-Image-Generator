@@ -25,4 +25,4 @@ Below are the steps required to build a Node.js powered OG image generator:
 
 # ACKNOWLEDGEMENT
 
-- [Sai Krishna](https://blog.logrocket.com/create-open-graph-image-generator-node-js/)
+[Sai Krishna](https://blog.logrocket.com/create-open-graph-image-generator-node-js/)
