@@ -6,6 +6,7 @@ On a quick glance, the preview card provides information about the resource shar
 
 However, creating OG images for many pages or blogs is time-consuming. A better approach would be to have a few templates designed for respective categories and dynamically create the images with a simple image generator service.
 
+
 In this project, i set up a simple server with the /ogimage endpoint that responds with dynamically generated images from provided query parameters. The primary objective is to reduce the manual effort when creating OG images.
 
 # What is Open Graph?
